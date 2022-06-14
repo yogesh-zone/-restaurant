@@ -37,11 +37,11 @@ function Resturent() {
             </div>
             <div className="navbaritem font-semibold ">
                 <ul className='transition delay-300'> 
-                <li className="navitem "> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="https://treact.owaiskhan.me/components/landingPages/RestaurantLandingPage"   target="_blank" rel="noreferrer" >  Home </a> </li>
-                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800 "href="bbn.com"> Blog  </a> </li>
-                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="bbn.com">  Pricing </a> </li>
-                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="bbn.com">   Contact us! </a></li>
-                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="bbn.com">   Log in </a></li>
+                <li className="navitem "> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="#"   target="_blank" rel="noreferrer" >  Home </a> </li>
+                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800 "href="#"> Blog  </a> </li>
+                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="#">  Pricing </a> </li>
+                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="https://yogesh-zone.github.io/portfolio.github.io/">   Contact us! </a></li>
+                <li className="navitem"> <a  className="transition-all ease-in-out delay-80 hover:text-blue-500 hover:border-b-4 hover:border-b-blue-800"href="3">   Log in </a></li>
                 </ul>
                 <button className='navbutton'>
                     Sign up
